@@ -2,3 +2,5 @@
 *.LOG
 *.SchDocPreview
 *.PcbDocPreview
+*.html
+*.drc
