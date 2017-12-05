@@ -93,8 +93,7 @@ UniqueID=DEF70814-7CBB-4D2D-A18A-6D9217B2F799
 Description=Normal
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=R1|UniqueId=\EIPCQCRS|Kind=1|AlternatePart= 
+VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
