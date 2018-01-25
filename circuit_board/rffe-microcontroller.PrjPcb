@@ -88,57 +88,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
-DocumentPath=Project Outputs for rffe-microcontroller\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=Project Outputs for rffe-microcontroller\CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=Project Outputs for rffe-microcontroller\CAMtastic_DRILL.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [ProjectVariant1]
 UniqueID=DEF70814-7CBB-4D2D-A18A-6D9217B2F799
 Description=Normal
@@ -160,226 +109,166 @@ DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for rffe-microcontroller\Design Rule Check - rffe-uc.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\gnd\features
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\gnd_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\inner_layer_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\inner_layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\mechanical_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\mechanical_14\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.G1
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.G2
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument54]
-DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument55]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.REP
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for rffe-microcontroller\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
@@ -435,7 +324,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -546,7 +435,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -635,7 +524,7 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -657,7 +546,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -735,7 +624,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -772,7 +661,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -952,7 +841,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -991,7 +880,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1042,7 +931,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
