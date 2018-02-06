@@ -88,6 +88,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=rffe-uc.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=DEF70814-7CBB-4D2D-A18A-6D9217B2F799
 Description=Normal
@@ -100,6 +117,14 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for rffe-microcontroller\Design Rule Check - rffe-uc.html
 DItemRevisionGUID=
 
+[Parameter1]
+Name=ProjectName
+Value=
+
+[Parameter2]
+Name=BoardVersion
+Value=1.1
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -108,6 +133,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
