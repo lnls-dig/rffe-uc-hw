@@ -9,7 +9,7 @@ OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
 SeparateFolders=0
-TemplateLocationPath=
+TemplateLocationPath=Y:\Projects\Templates Altium\
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
 AllowPortNetNames=0
@@ -48,7 +48,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NAAMKYXM
 
 [Document3]
-DocumentPath=rffe-microcontroller.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=rffe-uc.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,24 +88,125 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[ProjectVariant1]
-UniqueID=DEF70814-7CBB-4D2D-A18A-6D9217B2F799
-Description=Normal
-AllowFabrication=0
-ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
+[Document4]
+DocumentPath=rffe-microcontroller.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for rffe-microcontroller\Design Rule Check - rffe-uc.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for rffe-microcontroller\rffe-uc.RUL
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectName
-Value=
+Value=RFFE-uc
 
 [Parameter2]
-Name=BoardVersion
+Name=Revision
 Value=1.1
 
 [Configuration1]
@@ -131,9 +215,35 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=rffe-microcontroller.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=rffe-microcontroller.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=rffe-microcontroller.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
