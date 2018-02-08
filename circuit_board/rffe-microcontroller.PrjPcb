@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for rffe-microcontroller
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -247,7 +247,7 @@ ConfigurationType=Assembly
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
-AutoOpenOutJob=-1
+AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
 ProjectMode=-1
@@ -258,9 +258,9 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=0
-TemplateFilename=
-TemplateStoreRelative=-1
+ExportBOM=-1
+TemplateFilename=Y:\Projects\Templates Altium\Altium_Template_BOM_DIG.xlsx
+TemplateStoreRelative=0
 PCB_PrintColor=1
 SCH_PrintColor=0
 PrintQuality=-3
@@ -282,7 +282,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for rffe-microcontroller
 
 [OutputGroup1]
 Name=Netlist Outputs
